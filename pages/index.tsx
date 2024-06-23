@@ -15,7 +15,7 @@ import SplitContent from '../components/homepage/SplitContent';
  * This page contains an overview of the organization and links to our programs
  * and events.
  */
-export default function HomePage() {
+export default function HomePage() {//
   return (
     <div>
       {/*<KickoffModal/>*/}
